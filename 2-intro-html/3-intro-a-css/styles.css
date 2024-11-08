@@ -1,0 +1,25 @@
+body {
+    /* este es un comentatio en css */
+    font-family: Arial, Helvetica, sans-serif
+}
+
+
+a{
+    color: cadetblue
+}
+
+
+
+p{
+    color: blueviolet
+}
+
+.parrafo-bonito{
+background-color: rgb(from color r g b);
+font-weight: bold;
+}
+
+#parrafo-unico{
+    color: rgb(206, 67, 137);
+    font-size: 22px;
+}
