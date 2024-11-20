@@ -1,0 +1,27 @@
+.flex-item{
+    background-color: lavender;
+    padding: 16px;
+    border: solid 1px black;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+.flex-container{
+    border: dashed blueviolet;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    align-items: center;
+}
+
+#item-2{
+    background-color: black;
+    color: white;
+    flex-basis: 200px;
+}
+
+#item-3{
+
+}
